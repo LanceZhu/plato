@@ -1,3 +1,8 @@
+
+Move to [https://github.com/miniprogram-analyzer/plato-cn](https://github.com/miniprogram-analyzer/plato-cn)
+
+---
+
 # plato
 
 ## Needs active maintainer
